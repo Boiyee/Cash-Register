@@ -1,3 +1,3 @@
-## Freecodecamp Certification Project
+## Freecodecamp Certification Project:
 
 ### Cash Register
